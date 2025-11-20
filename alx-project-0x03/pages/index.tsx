@@ -42,3 +42,5 @@ export default function Home() {
     </div>
   );
 }
+
+// <h1> Welcome to Splash App </h1>
